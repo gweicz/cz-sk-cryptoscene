@@ -20,6 +20,7 @@ Jméno |     | Profese | Pozn.
 Jméno |      | Projekt | Pozice
 ---   | ---  | ---     | ---
 [Benjamin Mazur](https://www.linkedin.com/in/benjamin-m-087751193/) | CZ | [DAO Maker](https://daomaker.com/) | Social Mining Manager
+[Jakub Korbel](https://cz.linkedin.com/in/jakub-korbel-202461104) | CZ | [SnowGem](https://snowgem.org/) | Co-Founder, Project manager
 
 ## Informační weby
 
