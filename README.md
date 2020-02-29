@@ -13,6 +13,7 @@ Název |      | Rok | Popis
 
 Jméno |     | Profese | Pozn.
 ---   | --- | ---     | ---
+[Marek Palatinus](https://cz.linkedin.com/in/marekpalatinus) | CZ | Entrepreneur | Zakladatel [SlushPool](https://slushpool.com/) a [Satoshilabs](https://satoshilabs.com/) (Trezor)
 [Jan Lánský](https://is.vsfs.cz/osoba/lansky) | CZ | VŠ profesor (VŠFS) | Překladatel knihy *[Mastering Bitcoin](https://www.bitcoin-info.cz/data/Mastering-Bitcoin-book-cz.pdf)* (Andreas Antonopoulos)
 [Dominik Stroukal](http://stroukal.cz/) | CZ | Ekonom (Roklen) | Spoluautor knihy *[Bitcoin a jiné kryptopeníze budoucnosti](https://www.databazeknih.cz/knihy/bitcoin-a-jine-kryptopenize-budoucnosti-370653)*
 
