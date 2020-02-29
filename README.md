@@ -3,6 +3,7 @@ CZ/SK Kryptoscéna
 
 > Seznam projektů, společností, lidí a komunit které mají co do činení s kryptoměnami z České Republiky/Slovenska.
 
+
 ## Místa
 
 Název |      | Rok | Pozn.
@@ -15,7 +16,7 @@ Název |      | Rok | Pozn.
 
 Název |      | Rok | Popis
 ---   | ---  | --- | --- 
-<img src="https://www.generalbytes.com/images/favicon.png" height="20" /> [GENERAL BYTES](https://www.generalbytes.com/) | CZ | 2013 | Kryptoměnové bankomaty
+<img src="https://www.generalbytes.com/images/favicon.png" height="20" /> [GENERAL BYTES](https://www.generalbytes.com/) | CZ | 2013 | Výrobce kryptoměnových bankomatů
 <img src="https://trezor.io/static/images/favicon.ico" height="20" /> [Trezor](https://trezor.io/) | CZ | 2014 | HW peněženka od [Satoshilabs](https://satoshilabs.com/)
 [Bunkeroid](https://www.bunkeroid.com/) | CZ | ? | Ochrana a organizace seedů a hesel 
 
@@ -52,11 +53,6 @@ Jméno |      | Rok | Fiat | Krypto | Pozn.
 <img src="https://www.ccshop.cz/favicon.ico" height="20" /> [ccShop](https://www.ccshop.cz/) | CZ | 2019 | CZK | <sup>BTC, ETH, XRP, BCH, LTC, IOTA, XLM, ETC, DASH, NEO, DOGE</sup> | E-shop
 <img src="https://www.anycoin.cz/favicon.png" height="20" /> [Anycoin](https://www.anycoin.cz/) | CZ | 2020 | CZK | [26 kryptoměn](https://www.anycoin.cz/#rates) |
 
-## Merchandise
-Jméno |      | Rok | Pozn.
----   | ---  | --- | ---
-[Cypherpunk Now](https://www.cypherpunknow.com/) | CZ | 2018 | Umělecké tisky @ [Paralelní Polis](https://www.paralelnipolis.cz/)
-
 
 ## Média 
 Jméno |      | Rok | Pozn.
@@ -78,6 +74,7 @@ Jméno |      | Rok | Obsah
 <img src="https://i.ibb.co/sgjMbbp/favicon.png" height="20" /> [Bitcoinman](http://bitcoinman.cz/) | CZ | ? | BTC návody
 <img src="https://bitcoinvkapse.cz/wp-content/uploads/2017/12/cropped-favicon-512-32x32.png" height="20" /> [Bitcoin v kapse](https://bitcoinvkapse.cz/) | CZ | ? | BTC/alt návody
 <img src="https://images.squarespace-cdn.com/content/v1/54f1f2a1e4b01a4293a2d6c7/1540975532682-GMRKV6NKUE0D9JBYOC4U/ke17ZwdGBToddI8pDm48kLXCf88_9uNTKXkq27cF4sB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmwbA6upbL5Bu97tJociXJklKprRMdH2Tl4F1PjaoPT3YUs5wkl5ojCV1O900UJ7ME/favicon.ico" height="20" /> [Bitperia](https://bitperia.cz/) | CZ | ? | Kryptomapa, videotéka, knihy, odkazy na zdroje
+[Kryptoburzy.top](https://cryptoburzy.top/) | CZ | 2020 | Srovnání světových burz
 
 
 ## Komunity
@@ -106,6 +103,9 @@ Jméno |     | Profese | Pozn.
 
 ## Podcasty
 
+Jméno |     | Rok | Pozn.
+---   | --- | --- | ---
+[Kryptokec](https://kryptokec.libsyn.com/) | CZ | 2019 |
 
 
 ## Blogy
@@ -132,11 +132,18 @@ Jméno |     | Rok   | Pozn.
 [Příručka hodlera](https://static1.squarespace.com/static/5a908811b40b9d58b1934218/t/5c4b7d418a922d0881f2e545/1548451175628/prirucka_hodlera_v_1.0.pdf)<br>Pavel Urbaczka, Tomáš Elbert | CZ | 2019 | [zdarma ke stažení](https://static1.squarespace.com/static/5a908811b40b9d58b1934218/t/5c4b7d418a922d0881f2e545/1548451175628/prirucka_hodlera_v_1.0.pdf)
 
 
+## Merchandise
+Jméno |      | Rok | Pozn.
+---   | ---  | --- | ---
+[Cypherpunk Now](https://www.cypherpunknow.com/) | CZ | 2018 | Umělecké tisky @ [Paralelní Polis](https://www.paralelnipolis.cz/)
+
+
 ## Trading skupiny
 
 Jméno |      | Rok | Pozn.
 ---   | ---  | --- | ---
 <img src="https://cryptokingdom.tech/favicon-32x32.png" height="20" /> [Crypto Kingdom](https://cryptokingdom.tech/cs/) | CZ | 2017 | [YouTube](https://www.youtube.com/channel/UCn7r2L0bTS6_olA9SV4Glug) (4,650 odběratelů)
+<img src="https://kryptotrejder.sk/wp-content/uploads/2018/01/cropped-krypto-favicon-192x192.png" height="20" /> [Kryptotrejder](https://kryptotrejder.sk/) | SK | 2017 | [YouTube](https://www.youtube.com/channel/UCvg2JQ22x4V_ie-eQZWfdAg) (424 odběratelů)
 <img src="https://blockspace.cz/wp-content/uploads/2019/05/miniatura_BLOCKSPACE_2019_web-3-45x45.jpg" height="20" /> [Blockspace](https://blockspace.cz/) | CZ | ? | [YouTube](https://www.youtube.com/channel/UCLb_SAXkeq8DEYPPYErQQEw) (993 odběratelů)
 <img src="https://www.zralocisobe.cz/favicon-32x32.png" height="20" /> [Žraloci sobě](https://www.zralocisobe.cz/) | CZ | 2019 | [YouTube](https://www.youtube.com/channel/UC2dq8ZQFwRGYIrWPcAJBRJg) (3,540 odběratelů)
 
@@ -152,3 +159,4 @@ Jméno |      | Projekt | Pozice | Social
 ## Nezařazené
 
 * https://www.smartcrypto.cz/
+* https://arbolet.net/ - zkrachovalo
