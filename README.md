@@ -26,7 +26,7 @@ Jméno |      | Projekt | Pozice | Social
 
 Jméno |      | Rok | Typ | Podporuje | Pozn.
 ---   | ---  | --- | --- | ---       | ---
-<img src="https://coinmate.io/favicons/favicon-32x32.png" height="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | Burza | CZK, EUR, BTC, LTC, BCH, ETH, XRP, DASH, DAI | 
+<img src="https://i.ibb.co/B3Zpfht/favicon-2.png" height="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | Burza | CZK, EUR, BTC, LTC, BCH, ETH, XRP, DASH, DAI | 
 <img src="https://client.simplecoin.eu/favicon-16x16.85a0cc2c.png" height="20" /> [Simplecoin](simplecoin.eu) | CZ | 2013 | Směnárna | CZK, EUR, BTC, LTC, BCH, ETH, ZEC |
 
 ## Informační weby
