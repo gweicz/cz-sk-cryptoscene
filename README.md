@@ -16,15 +16,6 @@ Název |      | Rok | Popis
 <img src="https://cdn.signals.network/favicons/32x32.png" height="20" /> [Signals Network](https://signals.network) [[SGN](https://coinmarketcap.com/currencies/signals-network/)] | CZ | 2017 | Automatické obchodování pomocí algoritmů
 
 
-## Významní lidé
-
-Jméno |     | Profese | Pozn.
----   | --- | ---     | ---
-[Marek Palatinus](https://cz.linkedin.com/in/marekpalatinus) | CZ | Entrepreneur | Zakladatel [SlushPool](https://slushpool.com/) a [Satoshilabs](https://satoshilabs.com/) (Trezor)
-[Jan Lánský](https://is.vsfs.cz/osoba/lansky) | CZ | VŠ profesor (VŠFS) | Překladatel knihy *[Mastering Bitcoin](https://www.bitcoin-info.cz/data/Mastering-Bitcoin-book-cz.pdf)* (Andreas Antonopoulos)
-[Dominik Stroukal](http://stroukal.cz/) | CZ | Ekonom (Roklen) | Spoluautor knihy *[Bitcoin a jiné kryptopeníze budoucnosti](https://www.databazeknih.cz/knihy/bitcoin-a-jine-kryptopenize-budoucnosti-370653)*
-
-
 ## Burzy a směnárny
 
 Jméno |      | Rok | Typ | Podporuje | Pozn.
@@ -32,6 +23,15 @@ Jméno |      | Rok | Typ | Podporuje | Pozn.
 <img src="https://i.ibb.co/B3Zpfht/favicon-2.png" height="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | Burza | CZK, EUR, BTC, LTC, BCH, ETH, XRP, DASH, DAI | 
 <img src="https://client.simplecoin.eu/favicon-16x16.85a0cc2c.png" height="20" /> [Simplecoin](simplecoin.eu) | CZ | 2013 | Směnárna | CZK, EUR, BTC, LTC, BCH, ETH, ZEC |
 <img src="https://www.anycoin.cz/favicon.png" height="20" /> [Anycoin](https://www.anycoin.cz/) | CZ | ? | Směnárna | CZK + [26 kryptoměn](https://www.anycoin.cz/#rates) |
+
+
+## Významní lidé
+
+Jméno |     | Profese | Pozn.
+---   | --- | ---     | ---
+[Marek Palatinus](https://cz.linkedin.com/in/marekpalatinus) | CZ | Entrepreneur | Zakladatel [SlushPool](https://slushpool.com/) a [Satoshilabs](https://satoshilabs.com/) (Trezor)
+[Jan Lánský](https://is.vsfs.cz/osoba/lansky) | CZ | VŠ profesor (VŠFS) | Překladatel knihy *[Mastering Bitcoin](https://www.bitcoin-info.cz/data/Mastering-Bitcoin-book-cz.pdf)* (Andreas Antonopoulos)
+[Dominik Stroukal](http://stroukal.cz/) | CZ | Ekonom (Roklen) | Spoluautor knihy *[Bitcoin a jiné kryptopeníze budoucnosti](https://www.databazeknih.cz/knihy/bitcoin-a-jine-kryptopenize-budoucnosti-370653)*
 
 
 ## Média 
