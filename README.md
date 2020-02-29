@@ -6,6 +6,7 @@ Název |      | Rok | Popis
 ---   | ---  | --- | --- 
 <img src="https://trezor.io/static/images/favicon.ico" height="20" /> [Trezor](https://trezor.io/) | CZ | 2014 | HW peněženka od [Satoshilabs](https://satoshilabs.com/)
 <img src="https://cdn.signals.network/favicons/32x32.png" height="20" /> [Signals Network](https://signals.network) [[SGN](https://coinmarketcap.com/currencies/signals-network/)] | CZ | 2017 | Automatické obchodování pomocí algoritmů
+[Bunkeroid](https://www.bunkeroid.com/) | CZ | ? | Ochrana a organizace seedů a hesel 
 
 
 ## Významní lidé
