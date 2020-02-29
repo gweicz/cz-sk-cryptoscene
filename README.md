@@ -22,6 +22,13 @@ Jméno |      | Projekt | Pozice | Social
 [Benjamin Mazur](https://www.linkedin.com/in/benjamin-m-087751193/) | CZ | [DAO Maker](https://daomaker.com/) | Social Mining Manager | [Twitter](https://twitter.com/Littlefinger997)
 [Jakub Korbel](https://cz.linkedin.com/in/jakub-korbel-202461104) | CZ | [SnowGem](https://snowgem.org/) | Co-Founder, Project manager |
 
+## Burzy a směnárny
+
+Jméno |      | Rok | Typ | Podporuje | Pozn.
+---   | ---  | --- | --- | ---       | ---
+<img src="https://coinmate.io/favicons/favicon-32x32.png" height="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | Burza | CZK, EUR, BTC, LTC, BCH, ETH, XRP, DASH, DAI | 
+<img src="https://client.simplecoin.eu/favicon-16x16.85a0cc2c.png" height="20" /> [Simplecoin](simplecoin.eu) | CZ | 2013 | Směnárna | CZK, EUR, BTC, LTC, BCH, ETH, ZEC |
+
 ## Informační weby
 
 Jméno |      | Rok | Pozn.
