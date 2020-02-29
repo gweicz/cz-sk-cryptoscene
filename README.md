@@ -1,6 +1,6 @@
 # CZ/SK Kryptoscéna
 
-## Hardware projekty
+## Hardware
 
 Název |      | Rok | Popis
 ---   | ---  | --- | --- 
