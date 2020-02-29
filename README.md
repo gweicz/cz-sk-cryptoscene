@@ -30,16 +30,33 @@ Jméno |      | Rok | Typ | Podporuje | Pozn.
 <img src="https://i.ibb.co/B3Zpfht/favicon-2.png" height="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | Burza | CZK, EUR, BTC, LTC, BCH, ETH, XRP, DASH, DAI | 
 <img src="https://client.simplecoin.eu/favicon-16x16.85a0cc2c.png" height="20" /> [Simplecoin](simplecoin.eu) | CZ | 2013 | Směnárna | CZK, EUR, BTC, LTC, BCH, ETH, ZEC |
 
-## Informační weby
-
+## Média 
 Jméno |      | Rok | Pozn.
 ---   | ---  | --- | ---
-[Bitcoin-info.cz](https://www.bitcoin-info.cz/) | CZ | ? | 
-[Kryptonovinky.sk](https://www.kryptonovinky.sk/) | SK | ? |
+[Kryptomagazin.cz](https://kryptomagazin.cz/) | CZ | ? | 
+[Kryptonovinky.sk](https://www.kryptonovinky.sk/) | SK | ? | 
 [Alza Kryptoměny](https://www.alza.cz/kryptomeny-tag3708.htm) | CZ | ? |
+
+## Informační weby & návody
+
+Jméno |      | Rok | Obsah | Pozn.
+---   | ---  | --- | ---   | ---
+[Bitcoin-info.cz](https://www.bitcoin-info.cz/) | CZ | ? | Návody | Jen BTC
+
 
 ## Influenceři
 
 Jméno |      | Rok | Pozn.
 ---   | ---  | --- | ---
 [Bitcoinovej kanál](https://www.youtube.com/channel/UCCegl13nmUvxUKMJqng1S-A) | CZ | ? |
+
+## Komunity
+
+Jméno | Rok | Platforma | Ćlenů  | Pozn.
+---   | --- | ---       | ---:   | ---
+[Bitcoinová komunita CZ & SK](https://www.facebook.com/groups/bitcoincz/) | 2013 | Facebook | ~ 18,371
+[Ethereum CZ & SK komunita](https://www.facebook.com/groups/926924580722201/) | 2015 | Facebook | ~ 7,138
+[Cardano [ADA] CZ/SK](https://www.facebook.com/groups/cardanoczsk/) | 2018 | Facebook | ~ 1,394 |
+[Bitcoinovej kanál](https://discord.gg/95YCvcJ) | 2020 | Discord | ~ 1,100 | [Patreon](https://www.patreon.com/BitcoinovejKanal)
+[Gwei.cz ETH/DeFi komunita](https://gwei.cz) | 2020 | Discord | ~ 45 | [DAO](https://github.com/gweicz/dao)
+
