@@ -1,5 +1,6 @@
 # CZ/SK Kryptoscéna
 
+
 ## Hardware
 
 Název |      | Rok | Popis
