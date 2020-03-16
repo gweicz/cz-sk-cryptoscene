@@ -47,7 +47,7 @@ Jméno |      | Rok | Fiat | Krypto | Pozn.
 Jméno |      | Rok | Fiat | Krypto | Pozn.
 ---   | ---  | --- | ---  | ---    | ---
 <img src="https://client.simplecoin.eu/favicon-16x16.85a0cc2c.png" height="20" /> [Simplecoin](simplecoin.eu) | CZ | 2013 | CZK, EUR | <sup>BTC, LTC, BCH, ETH, ZEC</sup> |
-<img src="https://www.bitstock.com/static/favicons/favicon-32x32.png" height="20" /> [Bitstock](https://www.bitstock.com/cs-cz/) | CZ | ? | CZK, EUR, PLN | BTC | Prodej v trafikách GECO
+<img src="https://www.bitstock.com/static/favicons/favicon-32x32.png" height="20" /> [Bitstock](https://www.bitstock.com/cs-cz/) | CZ | 2014 | CZK, EUR, PLN | BTC | Dříve wBTCb, Prodej v trafikách GECO
 <img src="https://www.bitbeli.cz/assets/images/favicon.png" height="20" /> [Bitbeli](https://www.bitbeli.cz/) | CZ | 2017 | CZK | <sup>BTC, LTC, ETH, BCH, XRP</sup> |
 <img src="https://www.freecoin.cz/favicon.ico" height="20" /> [FreeCoin](https://www.freecoin.cz/) | CZ | 2018 | CZK | <sup>BTC, XRP, LTC, ETH, DASH, BCH</sup> |
 <img src="https://www.ccshop.cz/favicon.ico" height="20" /> [ccShop](https://www.ccshop.cz/) | CZ | 2019 | CZK | <sup>BTC, ETH, XRP, BCH, LTC, IOTA, XLM, ETC, DASH, NEO, DOGE</sup> | E-shop
