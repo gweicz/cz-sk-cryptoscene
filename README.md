@@ -1,3 +1,3 @@
 # CZ/SK Kryptoscéna
 
-[Přejít do dokumentu](/content/README.md)
+[Přejít do dokumentu](/content/CZSK-Kryptoscena.md)
