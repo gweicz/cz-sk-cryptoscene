@@ -5,7 +5,7 @@ Název |      | Rok | Pozn.
 ---   | ---  | --- | ---
 <img src="https://www.progressbar.sk/static/img/icons/firefox-general-256-256.png" width="20" /> [Progressbar](https://www.progressbar.sk/) | Bratislava, SK | 2011 |
 <img src="https://www.paralelnipolis.cz/wp-content/themes/pptheme/dist/images/favicon.ico" width="20" /> [Paralelní Polis](https://www.paralelnipolis.cz/) | Praha, CZ | 2014 |
-<img src="https://paralelnapolis.sk/wp-content/uploads/2017/11/cropped-favicon-2-32x32.png" width="20" /> [Paralelná Polis](https://paralelnapolis.sk/) | Bratislava, SK | 2018 |
+<img src="https://paralelnapolis.sk/wp-content/uploads/2017/11/cropped-favicon-2-32x32.png" width="20" /> [Paralelná Polis](https://paralelnapolis.sk/) | Bratislava, SK | 2018 | | | |
 
 
 ## Hardware
@@ -14,7 +14,7 @@ Název |      | Rok | Popis
 ---   | ---  | --- | --- 
 <img src="https://www.generalbytes.com/images/favicon.png" width="20" /> [GENERAL BYTES](https://www.generalbytes.com/) | CZ | 2013 | Výrobce kryptoměnových bankomatů
 <img src="https://trezor.io/static/images/favicon.ico" width="20" /> [Trezor](https://trezor.io/) | CZ | 2014 | HW peněženka od [Satoshilabs](https://satoshilabs.com/)
-[Bunkeroid](https://www.bunkeroid.com/) | CZ | ? | Ochrana a organizace seedů a hesel 
+<img src="https://www.bunkeroid.com/assets/images/banner-black-250x250-250x250.png" width="20" /> [Bunkeroid](https://www.bunkeroid.com/) | CZ | ? | Ochrana a organizace seedů a hesel 
 
 
 ## Blockchain projekty
@@ -43,7 +43,7 @@ Jméno |      | Rok | Fiat | Krypto | Pozn.
 Jméno |      | Rok | Fiat | Krypto | Pozn.
 ---   | ---  | --- | ---  | ---    | ---
 <img src="https://client.simplecoin.eu/favicon-16x16.85a0cc2c.png" width="20" /> [Simplecoin](simplecoin.eu) | CZ | 2013 | CZK, EUR | <sup>BTC, LTC, BCH, ETH, ZEC</sup> |
-<img src="https://www.bitstock.com/static/favicons/favicon-32x32.png" width="20" /> [Bitstock](https://www.bitstock.com/cs-cz/) | CZ | ? | CZK, EUR, PLN | BTC | Prodej v trafikách GECO
+<img src="https://www.bitstock.com/static/favicons/favicon-32x32.png" width="20" /> [Bitstock](https://www.bitstock.com/cs-cz/) | CZ | 2014 | CZK, EUR, PLN | BTC | Dříve wBTCb, Prodej v trafikách GECO
 <img src="https://www.bitbeli.cz/assets/images/favicon.png" width="20" /> [Bitbeli](https://www.bitbeli.cz/) | CZ | 2017 | CZK | <sup>BTC, LTC, ETH, BCH, XRP</sup> |
 <img src="https://www.freecoin.cz/favicon.ico" width="20" /> [FreeCoin](https://www.freecoin.cz/) | CZ | 2018 | CZK | <sup>BTC, XRP, LTC, ETH, DASH, BCH</sup> |
 <img src="https://www.ccshop.cz/favicon.ico" width="20" /> [ccShop](https://www.ccshop.cz/) | CZ | 2019 | CZK | <sup>BTC, ETH, XRP, BCH, LTC, IOTA, XLM, ETC, DASH, NEO, DOGE</sup> | E-shop
@@ -79,6 +79,7 @@ Jméno | Rok | Platforma | Členů  | Pozn.
 ---   | --- | ---       | ---:   | ---
 [Bitcoinová komunita CZ & SK](https://www.facebook.com/groups/bitcoincz/) | 2013 | Facebook | ~ 18,371
 [Ethereum CZ & SK komunita](https://www.facebook.com/groups/926924580722201/) | 2015 | Facebook | ~ 7,138
+[DeFi CZ & SK](https://www.facebook.com/groups/620221958775146/) | 2020 | Facebook | ~ 87 |
 [Cardano [ADA] CZ/SK](https://www.facebook.com/groups/cardanoczsk/) | 2018 | Facebook | ~ 1,394 |
 [CryptoSvet.cz komunita](https://discordapp.com/invite/jH643bp) | 2018 | Discord | ~ 1,146 |
 [Bitcoinovej kanál](https://discord.gg/95YCvcJ) | 2020 | Discord | ~ 1,100 | [Patreon](https://www.patreon.com/BitcoinovejKanal)
@@ -90,6 +91,7 @@ Jméno | Rok | Platforma | Členů  | Pozn.
 Jméno |     | Profese | Pozn.
 ---   | --- | ---     | ---
 [Marek Palatinus](https://cz.linkedin.com/in/marekpalatinus) | CZ | Entrepreneur | Zakladatel [SlushPool](https://slushpool.com/) a [Satoshilabs](https://satoshilabs.com/) (Trezor)
+[Pavol Rusnak](https://rusnak.io/) | SK | Entrepreneur | Zakladatel [Satoshilabs](https://satoshilabs.com/) (Trezor)
 [Dominik Stroukal](http://stroukal.cz/) | CZ | Ekonom (Roklen) | Spoluautor knihy *[Bitcoin a jiné kryptopeníze budoucnosti](https://www.databazeknih.cz/knihy/bitcoin-a-jine-kryptopenize-budoucnosti-370653)*
 [Juraj Bednár](https://juraj.bednar.io/) | SK | Etický hacker | Spoluzakladatel Paralelní Polis v [Praze](https://www.paralelnipolis.cz/) a [Bratislavě](https://paralelnapolis.sk/)
 [Jan Lánský](https://is.vsfs.cz/osoba/lansky) | CZ | VŠ profesor (VŠFS) | Překladatel knihy *[Mastering Bitcoin](https://bitcoinbook.info/wp-content/translations/cs/book.pdf)* (Andreas Antonopoulos)
@@ -140,7 +142,7 @@ Jméno |      | Rok | Pozn.
 ---   | ---  | --- | ---
 <img src="https://cryptokingdom.tech/favicon-32x32.png" width="20" /> [Crypto Kingdom](https://cryptokingdom.tech/cs/) | CZ | 2017 | [YouTube](https://www.youtube.com/channel/UCn7r2L0bTS6_olA9SV4Glug) (4,650 odběratelů)
 <img src="https://kryptotrejder.sk/wp-content/uploads/2018/01/cropped-krypto-favicon-192x192.png" width="20" /> [Kryptotrejder](https://kryptotrejder.sk/) | SK | 2017 | [YouTube](https://www.youtube.com/channel/UCvg2JQ22x4V_ie-eQZWfdAg) (424 odběratelů)
-<img src="https://blockspace.cz/wp-content/uploads/2019/05/miniatura_BLOCKSPACE_2019_web-3-45x45.jpg" width="20" /> [Blockspace](https://blockspace.cz/) | CZ | ? | [YouTube](https://www.youtube.com/channel/UCLb_SAXkeq8DEYPPYErQQEw) (993 odběratelů)
+<img src="https://blockspace.cz/wp-content/uploads/2019/05/miniatura_BLOCKSPACE_2019_web-3-45x45.jpg" width="20" /> [Blockspace](https://blockspace.cz/) | CZ | 2018 | [YouTube](https://www.youtube.com/channel/UCLb_SAXkeq8DEYPPYErQQEw) (993 odběratelů)
 <img src="https://www.zralocisobe.cz/favicon-32x32.png" width="20" /> [Žraloci sobě](https://www.zralocisobe.cz/) | CZ | 2019 | [YouTube](https://www.youtube.com/channel/UC2dq8ZQFwRGYIrWPcAJBRJg) (3,540 odběratelů)
 
 
