@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <!--link rel="stylesheet" href="/bulma.min.css"-->
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/bulmaswatch.min.css">
+    <style>
+      a { color: #1079AC; }
+      .header { background-color: #fafafa; padding: 2rem 1.5rem; }
+      .toc { display: block; }
+      .toc li { display: inline-block; margin-right:0em; font-size: 1.1em; line-height: 2em; }
+      .toc li:after { content: ' ~ '; }
+      .toc li:last-child:after { content: ''; }
+    </style>
+  </head>
+  <body>
+    <section class="hero is-primary">
+      <div class="hero-body">
+        <div class="container">
+          <a href="/"><h1 class="title">{{ .Title }}</h1></a>
+          <h2 class="subtitle">{{ .Param "subtitle" }}</h2>
+        </div>
+      </div>
+    </section>
+    <div class="section header">
+      <div class="container">
+        <div class="toc">
+          {{ .TableOfContents }}
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="content has-text-centered">
+        <p>
+          <a href="https://gwei.cz">
+            <img src="https://gwei.cz/img/logo.png" width="50" style="vertical-align: -20px;" />
+          </a>
+          Vytvořeno <a href="https://gwei.cz">Gwei.cz</a> komunitou
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

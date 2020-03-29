@@ -1,0 +1,10 @@
+baseURL: http://example.org/
+languageCode: cs-cz
+title: My New Hugo Site
+theme: bare
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
