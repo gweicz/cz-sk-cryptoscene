@@ -36,8 +36,10 @@ Jméno |     | Rok | Obor
 
 Jméno |      | Rok | Fiat | Krypto | Pozn.
 ---   | ---  | --- | ---  | ---    | ---
-<img src="https://i.ibb.co/B3Zpfht/favicon-2.png" width="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | CZK, EUR | <sup>BTC, LTC, BCH, ETH, XRP, DASH, DAI</sup> | 
-
+<img src="https://market.bitstock.com//favicon.ico?v=3" width="20" /> [Bitstock Market](https://market.bitstock.com/cs) | CZ | 2014 | CZK, EUR | BTC |
+<img src="https://i.ibb.co/B3Zpfht/favicon-2.png" width="20" /> [CoinMate](https://coinmate.io/) | CZ | 2014 | ~~CZK, EUR~~ | <sup>BTC, LTC, BCH, ETH, XRP, DASH, DAI</sup> | Od dubna 2020 nemají fiat účet
+<img src="https://coingi.com/favicon.ico" width="20" /> [Coingi](https://coingi.com/) | CZ | 2017 | CZK, EUR, USD | <sup>BTC, LTC, PPC, DOGE, VTC, NMC, DASH</sup>
+<img src="https://eterbase.exchange/assets/icon/favicon-32x32.png" width="20" /> [Eterbase](https://eterbase.exchange/) | SK | 2019 | EUR, USD | BTC, ETH a mnoho dalších
 
 ## Směnárny
 Jméno |      | Rok | Fiat | Krypto | Pozn.
