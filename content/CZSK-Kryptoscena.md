@@ -30,6 +30,7 @@ Jméno |     | Rok | Obor
 ---   | --- | --- | ---
 <img src="https://images.squarespace-cdn.com/content/v1/5a908811b40b9d58b1934218/1519493331119-QN8ATGPG41IJ58MUGKZV/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwkCFOLgzJj4yIx-vIIEbyWWRd0QUGL6lY_wBICnBy59Ye9GKQq6_hlXZJyaybXpCc/favicon.ico" width="20" /> [Blockchain Legal](https://www.blockchainlegal.cz/) | CZ | 2017 | Advokátní kancelář, právní poradenství
 <img src="https://images.squarespace-cdn.com/content/v1/5b98d8ed12b13fdd29821f5e/1538008438376-1363LQHC3LJKZW31EP8B/ke17ZwdGBToddI8pDm48kPJXHKy2-mnvrsdpGQjlhod7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmrMDYraMJMCQwFxTSOIP7LpSBEQpA-g5k6VTjWbSuadHJq0dp98hg5AZvIaPb3DoM/favicon.ico" width="20" /> [Czech Blockchain Republic](https://www.blockchainrepublic.cz/) | CZ | 2018 | Nezisková iniciativa pro rozšíření blockchainu
+<img src="https://www.crypkit.com/wp-content/uploads/2020/06/cropped-logo_site-180x180.png" width="20" /> [Crypkit](https://www.crypkit.com/) | CZ | 2018 | Platforma pro správu portfolia
 
 
 ## Burzy
